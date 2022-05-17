@@ -13,7 +13,7 @@ require (
 	github.com/prometheus/client_golang v1.8.0
 	github.com/spf13/afero v1.4.1
 	github.com/stretchr/testify v1.6.1
-	github.com/tidwall/gjson v1.6.1
+	github.com/tidwall/gjson v1.9.3
 	go.uber.org/zap v1.16.0
 	golang.org/x/crypto v0.0.0-20201016220609-9e8e0b390897
 	google.golang.org/grpc v1.33.1
